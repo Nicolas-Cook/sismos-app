@@ -23,10 +23,10 @@
     
 5.  Inicia el servidor de Rails:  
     `rails s`
-## License
+## Licencia
 
 Este proyecto está bajo la licencia MIT.
 
-## Note
+## Nota
 
 Este proyecto es para uso de portafolio y no esta siendo mantenido activamente.
